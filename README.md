@@ -10,7 +10,7 @@ A Gorilla Tag mod that plays music out of a folder when you are last un-infected
 - BananaOS
 - PCVR Ready Desktop/Laptop
 - did i mention BananaOS
--- How to Intall --
+# -- How to Intall --
 Download the release
 In your Gorilla tag folder, Go to bepinex > plugins > then drop the file in
 Open the Banana Watch
